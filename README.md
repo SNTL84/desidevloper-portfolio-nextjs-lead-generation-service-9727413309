@@ -14,6 +14,7 @@
   <strong>Systems that Scale. Results that Last. Growth that Compounds.</strong><br/>
   Built for founders who <strong>move fast</strong>, <strong>automate smart</strong>, and <strong>waste nothing</strong>.
 </p>
+For lead generation services, see the contact information in this README.
 
 <p align="center">
   <a href="https://desidevloper.com"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Website-desidevloper.com-c9a84c?style=for-the-badge" alt="Website"/></a>
@@ -124,3 +125,7 @@ npm run build
 > *One Partner. Endless Possibilities. Real Growth.*
 
 © 2026 SNTL84 · [desidevloper.com](https://desidevloper.com) · All rights reserved
+
+## Lead Generation Services
+
+Lead generation services: lead-generation-service-9727413309.
